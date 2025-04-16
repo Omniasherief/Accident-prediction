@@ -1,5 +1,4 @@
 #  Traffic Accident Prediction using Machine Learning
-
 ---
 
 ## 🚧 Problem Statement  
