@@ -96,6 +96,5 @@ Used an extensive grid search over:
   - **Confusion Matrix** annotated with percentages
   - **ROC Curve** to visualize discrimination ability across thresholds
 
-This comprehensive evaluation ensures the model is not just accurate but also generalizes well, especially for the minority class (`Accident`).
 
 ---
