@@ -89,7 +89,7 @@ Used an extensive grid search over:
 
 ### 6️⃣ Evaluation & Interpretation
 
-- **Best ROC-AUC Score** was reported from training.
+- * ROC-AUC Score** was reported from training.
 - **Final Test Evaluation** included:
   - Accuracy
   - Precision, Recall, F1-score for each class
